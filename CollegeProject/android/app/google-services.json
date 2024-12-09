@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "544791832868",
+    "firebase_url": "https://m3r-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "m3r-project",
+    "storage_bucket": "m3r-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544791832868:android:1c2372eb3726040e40abb1",
+        "android_client_info": {
+          "package_name": "com.collegeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3Vy_sSM3h22xiJYYcgebWQwh4mSgBBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
